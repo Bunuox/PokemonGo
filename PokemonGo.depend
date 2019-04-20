@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554408846 source:c:\users\bünyamin\desktop\haftalýk görüþme toplantýsý\projeler\c programlama\codeblocks\pointers\pokemongo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1554981203 source:c:\users\bünyamin\desktop\projeler\c programlama\pokemongo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+
