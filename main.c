@@ -195,7 +195,7 @@ if(kontrol==1){
     int aimove;
     int a,aix=rand()%4;
     int b,aiy=rand()%4;
-    printf("Locate Your Pokemon in (x,y):");
+    printf("Locate Your Pokemon in 4x4 matris (x,y):");
     scanf("%d %d",&satir,&sutun);
     srand(time(NULL));
     a=satir;
